@@ -1,0 +1,15 @@
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.row.center{
+    justify-content: center;
+}
+.card{
+    border:0.1rem black solid;
+    background-color: blanchedalmond;
+    border-radius: 1rem;
+    margin: 1rem;
+}
